@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NwPGWwfCatKE70eM9NuFDlc2dZQf2Xm+M3Gz5f+beYU=",
+  "Source": "WebAppEMS",
+  "BasePath": "_content/WebAppEMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
